@@ -1,0 +1,17 @@
+{
+  "product": "SevenSmile KidsTime",
+  "display_name": "七笑果宝贝食光",
+  "release_tag": "v1.0",
+  "release_label": "v1.0 正式版",
+  "release_date": "2026-06-27",
+  "artifact_type": "static-h5-demo",
+  "entry_file": "七笑果-宝贝食光-高保真交互原型-V1.0.html",
+  "artifact_sha256": "34ef0ba1c512fa5692d1029ee85445f3a961bd448d8d0584ab0ffed670bdaf49",
+  "deployment_mode": "nginx-static-site + wechat-webview",
+  "stability": "stable",
+  "baseline_rule": "Release must be bound to a remote branch and commit SHA before production deployment.",
+  "notes": [
+    "UI finalization completed across key user-facing pages.",
+    "Use this manifest together with the production release document for traceability."
+  ]
+}
