@@ -6,7 +6,7 @@
   "release_date": "2026-06-27",
   "artifact_type": "static-h5-demo",
   "entry_file": "七笑果-宝贝食光-高保真交互原型-V1.0.html",
-  "artifact_sha256": "34ef0ba1c512fa5692d1029ee85445f3a961bd448d8d0584ab0ffed670bdaf49",
+  "artifact_sha256": "2ad974d3f76d2a4c7e250936955681c2d73ac636e4c8796e9920198feec6ee4f",
   "deployment_mode": "nginx-static-site + wechat-webview",
   "stability": "stable",
   "baseline_rule": "Release must be bound to a remote branch and commit SHA before production deployment.",
